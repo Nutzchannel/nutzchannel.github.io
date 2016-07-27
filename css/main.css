@@ -1,0 +1,24 @@
+#titlecard {
+  background-color: black;
+  text-align: left;
+  font-family: "Futura", "Helvetica Neue", "Helvetica", sans-serif;
+  font-size: 100%;
+  line-height: 0.9; }
+  #titlecard #offset {
+    color: transparent;
+    text-shadow: 0 0 2.5px #00ffff;
+    position: absolute;
+    top: 820px;
+    left: 251px;
+    -ms-transform: rotate(-3.5deg);
+    -webkit-transform: rotate(-3.5deg);
+    transform: rotate(-3.5deg);
+    -ms-transform-origin: 0% 0%;
+    -webkit-transform-origin: 0% 0%;
+    transform-origin: 0% 0%; }
+    #titlecard #offset a {
+      color: transparent !important;
+      text-decoration: none;
+      box-shadow: 0px -4px 0px #ffffff inset; }
+
+/*# sourceMappingURL=main.css.map */
